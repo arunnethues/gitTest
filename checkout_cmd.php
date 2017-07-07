@@ -1,6 +1,12 @@
 first updated
-<<<<<<< HEAD
+
+
+
+ds;jfdsj
+
+fdsfjdsljflkdsj
+
+
 second updated
 third updated
-=======
->>>>>>> parent of e7bd879... second checkout
+
