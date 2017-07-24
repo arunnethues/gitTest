@@ -1,2 +1,1 @@
-<?php 
-echo json_encode($_POST);
+Test Record for invalid users
