@@ -9,6 +9,7 @@
 
 	// The commands
 	$commands = array(
+		'git branch -v',
 		'echo $PWD',
 		'whoami',
 		'git pull',
@@ -40,8 +41,8 @@
 <pre>
  .  ____  .    ____________________________
  |/      \|   |                            |
-[| <span style="color: #FF0000;">&hearts;    &hearts;</span> |]  | Git Deployment Script v0.1 |
- |___==___|  /              &copy; oodavid 2012 |
+[| <span style="color: #FF0000;">&hearts;    &hearts;</span> |]  | Git Deployment Script |
+ |___==___|  /              &copy; Arun Rai |
               |____________________________|
 
 <?php echo $output; ?>
