@@ -9,14 +9,14 @@
 
 	// The commands
 	$commands = array(
-		'git branch -v',
+		'sudo git branch -v',
 		'echo $PWD',
 		'whoami',
-		'git pull',
-		'git status',
-		'git submodule sync',
-		'git submodule update',
-		'git submodule status',
+		'sudo git pull',
+		'sudo git status',
+		'sudo git submodule sync',
+		'sudo git submodule update',
+		'sudo git submodule status',
 	);
 
 	// Run the commands for output
