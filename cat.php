@@ -9,3 +9,5 @@ stash@{2}: WIP on gerbils: b2bdead Add dogs.
 $ git stash list
 stash@{0}: WIP on master: 8e5ec59 Merge branch 'testBranch'
 stash@{1}: WIP on master: 8e5ec59 Merge branch 'testBranch'
+
+fdfd
